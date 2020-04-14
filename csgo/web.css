@@ -1,0 +1,148 @@
+nav{
+    background-image: linear-gradient(green,blue,red) ;
+    height: 1000px;
+    width: 100px;
+    margin-right: 50px;
+    position: fixed;
+}
+nav a{
+    display: block;
+    text-align: center;
+    background-color: darkgray;
+    width: 80%;
+    color: black;
+    margin-top: 50px;
+    margin-left: 12%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
+a:hover{
+	background-color: red;
+	color: white;
+}
+a:focus{
+	background-color: black;
+    color: white;
+}
+div{
+    background-color:gray;
+    height: 80px;
+    position: fixed;
+    width: 100%;
+}
+div h1{
+    text-align: center;
+    background-color: greenyellow;
+}
+dl{
+    display: inline-block;
+    background-image: linear-gradient(red,black);
+    width: 100%;
+}
+dl img{
+    width: 900px;
+    height: 350px;
+    display: inline-block;
+    
+}
+dl p{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    font-size: larger;
+    margin-left: 108px;
+}
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+hr.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 50px;
+    display: inline-block;
+  }
+  
+hr.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+hr.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+hr.desc {
+    padding: 15px;
+    text-align: center;
+  }
+img{
+    width: 150px;
+    height: 150px;
+    margin-left: 100px;
+    border-radius: 45%;
+}
+p1{
+    display: inline;
+    margin-left: 100px;
+    
+}
+p2{
+    display: inline;
+    margin-left: 150px;
+}
+p3{
+    display: inline;
+    margin-left: 200px;
+}
+p4{
+    display: inline;
+    margin-left: 170px;
+}
+p5{
+    display: inline;
+    margin-left: 160px;
+}
+
+
+div1 video{
+    width: 700px;
+    height: 400px;
+    margin-left: 45%;
+    background-color: violet;
+}
+div1 h3{
+    margin-left: 100px;
+    margin-left: 100px;
+    background-image: linear-gradient(red,grey);
+    text-align: center;
+    font-size: larger;
+    color: white;
+}
+div1 span1{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+div1 span2{
+    margin-left: 100px;
+}
+div1 span3{
+    margin-left: 100px;
+}
+div1 span4{
+    margin-left: 100px;
+}
+div1 span5{
+    margin-left: 100px;
+}
+div1 span6{
+    margin-left: 100px;
+}
+
+nav2{
+    background-color: black;
+    width: 400px;
+    height: 300px;
+}
