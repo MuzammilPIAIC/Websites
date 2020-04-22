@@ -1,0 +1,123 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  .img{
+      width: 100%;
+      height: 500px;
+      border-radius: 2%;
+      
+  }
+  
+  .nev2{
+        position: absolute;
+        top: 20px;
+        width: 100px;
+        color: black;
+        background-color: white;
+        text-decoration: none;
+        border-radius: 30%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+  }
+a:hover{
+	background-color: red;
+	color: white;
+}
+a:focus{
+	background-color: black;
+    color: white;
+}
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  .h1 {
+    position: absolute;
+    top: 200px;
+    left: 16px;
+    color: wheat;
+  }
+  .vid{
+        position: absolute;
+        top: 50px;
+        right: 20px;
+        width: 650px;
+        height: 400px;
+  }
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .mn{
+      width: 200px;
+      height: 350px;
+      background-color: whitesmoke;
+      display: inline-block;
+  }
+
+  .ls{
+      width: 200px;
+      height: 200px;
+      border-radius: 20%;
+      display: inline-block;
+  }
+  .h2{
+      text-align: center;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-size: large;
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    margin-left: 55px;
+  }
+  
+  .bv{
+    display: inline-block;
+      background-color: lavender;
+      width: 100%;
+      height: 400px;
+      margin-top: 20px;
+      border-style: solid;
+      border-color: red;
+      border-radius: 20px;
+      
+  }
+  .as{
+      display: inline-block;
+      font-size: larger;
+      margin-bottom: 200px;
+  }
+  .hj{
+      
+      width: 600px;
+      height: 300px;
+      margin-top: 60px;
+      margin-left: 20px;
+      border-radius: 5%;
+  }
+  
+ 
